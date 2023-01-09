@@ -6,4 +6,4 @@
 시리얼 모니터
 
 image insert
-![image text](https://en.wikipedia.org/wiki/Image)
+![image text](https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png)

@@ -3,7 +3,7 @@
 ## 2023-01-09
 아두이노 IDE 설치 및 기초 문법\
 센서, 프로세서, 액츄에이터\
-시리얼 모니터\
+시리얼 모니터
 
 Image insert\
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/330px-Image_created_with_a_mobile_phone.png)

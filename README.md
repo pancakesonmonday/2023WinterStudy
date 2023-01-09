@@ -4,3 +4,6 @@
 아두이노 IDE 설치 및 기초 문법
 센서, 프로세서, 액츄에이터
 시리얼 모니터
+
+image insert
+![image text](https://en.wikipedia.org/wiki/Image)
